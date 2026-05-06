@@ -1,116 +1,44 @@
-# 🚀 Pownkumar - Full-Stack Flutter Developer
+# Pownkumar A
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Founder of [Korelium](https://korelium.org)** · Tamil Nadu, India
+
+I build tools that solve real problems. Currently managing a 33-machine Mac lab at a college and building the tools to automate it — because the commercial alternatives cost more than they're worth.
 
 ---
 
-## 👨‍💻 About Me
+## What I'm working on
 
-I'm a passionate **Full-Stack Developer** from Chennai, India, specializing in **Flutter & Dart** for cross-platform mobile app development. With experience in web development, DevOps, and system administration, I build scalable, efficient solutions using modern technologies.
+**[labctl](https://github.com/iampownkumar/labctl)** — A CLI tool for managing Mac labs over SSH. Reboot, deploy software, create users, monitor screens — across 30+ machines in parallel. No MDM, no agents, no cloud, no subscription. Just Fish shell and SSH.
 
-### 🎯 Current Focus
-- 🔥 **Flutter Development** - Building beautiful, responsive mobile apps
-- 💻 **Dart Programming** - Mastering the language behind Flutter
-- 🌐 **Full-Stack Development** - React, Node.js, and backend technologies
-- 🛠️ **DevOps & Linux** - Docker, containerization, and system automation
+**[Mac Lab Dashboard](https://github.com/iampownkumar/mac-lab-dashboard)** — The GUI companion to labctl. A Flutter desktop app backed by a FastAPI server that lets anyone manage a Mac lab without touching a terminal.
+
+**[Kora Expense Tracker](https://github.com/iampownkumar/kora-expense-tracker)** — Personal finance app built with Flutter and Firebase. Expense tracking, budgets, and analytics.
 
 ---
 
-## 💡 Technical Skills
+## Tech I actually use
 
-### Mobile Development
-- **Flutter Framework** - Cross-platform app development
-- **Dart** - Object-oriented programming language
-- **Android & iOS** - Native platform integration
-- **State Management** - Provider, Riverpod, GetX
+**Day to day:** Flutter, Dart, Python, Fish shell, SSH, Git
 
-### Web Development
-- **Frontend** - React, HTML5, CSS3, JavaScript ES6+
-- **Backend** - Node.js, Express.js, REST APIs
-- **Database** - MySQL, MongoDB, Firebase
+**Backend:** FastAPI, Node.js, Firebase
 
-### Tools & DevOps
-- **Version Control** - Git, GitHub
-- **Containerization** - Docker
-- **Linux** - System administration and automation
-- **IDEs** - VS Code, Android Studio, IntelliJ
+**Infrastructure:** macOS system administration, Homebrew automation, shell scripting, Docker
+
+**Frontend (when needed):** React, HTML/CSS/JS
 
 ---
 
-## 🏆 Featured Projects
+## Background
 
-### 📚 Korelium
-An online learning platform for tech education and skill development.
-- **Stack**: React, Node.js, MongoDB
-- **Features**: Course management, user authentication, progress tracking
+I started as a Flutter developer, built a few apps, then took a job managing a college Mac lab. That's where I realized there's no good free tool for managing multiple Macs — everything is either $4/device/month (Jamf) or requires enterprise MDM enrollment.
 
-### 💰 Kora Expense Tracker
-A personal finance management app built with Flutter.
-- **Stack**: Flutter, Dart, Firebase
-- **Features**: Expense tracking, budget planning, analytics
+So I built my own. labctl started as a handful of shell scripts and grew into a modular CLI with 50+ commands covering power management, user management, software deployment, screen monitoring, auto-login, Wake-on-LAN, and more.
 
-### 🚕 Navi Drop Taxi
-A taxi booking service application.
-- **Stack**: Flutter, Node.js, Firebase
-- **Features**: Real-time tracking, booking system, payment integration
+The dashboard came next — because not everyone wants to use a terminal.
 
 ---
 
-## 📊 GitHub Statistics
+## Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampownkumar&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampownkumar&theme=dark&layout=compact&hide_border=true)
-
----
-
-## 🎓 Learning & Development
-
-- 📖 **Currently Learning**: Advanced Flutter patterns, DevOps best practices
-- 🔄 **Continuous Learning**: Daily coding practice, documentation reading
-- 🤝 **Open Source**: Contributing to open-source projects
-- 💬 **Knowledge Sharing**: Creating content and helping developers
-
----
-
-## 📫 Connect With Me
-
-- **GitHub**: [@iampownkumar](https://github.com/iampownkumar)
-- **YouTube**: [@codewithpown](https://www.youtube.com/c/korelium)
-- **Location**: Tamilnadu, India
-- **Languages**: Tamil, English
-
----
-
-## 🚀 Goals
-
-✅ Build production-grade Flutter applications
-✅ Master advanced mobile development concepts
-✅ Contribute meaningfully to open-source projects
-✅ Create educational content for aspiring developers
-✅ Develop SaaS products and entrepreneurial ventures
-
----
-
-## 💬 Let's Talk!
-
-I'm always open to:
-- 💼 Freelance project opportunities
-- 🤝 Collaborations on interesting projects
-- 📚 Mentoring and knowledge sharing
-- 🎯 Career opportunities
-
-**Feel free to reach out and connect!**
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iampownkumar&style=flat-square&color=blue" alt="Profile Views" />
-  
-  ⭐ If you find my projects useful, please consider giving them a star!
-</div>
+- YouTube: [@korelium](https://www.youtube.com/@korelium)
+- GitHub: [@iampownkumar](https://github.com/iampownkumar)
