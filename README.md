@@ -2,39 +2,43 @@
 
 **Founder of [Korelium](https://korelium.org)** · Tamil Nadu, India
 
-I build tools that solve real problems. Currently managing a 33-machine Mac lab at a college and building the tools to automate it — because the commercial alternatives cost more than they're worth.
+System administrator managing multi-platform labs (macOS, Linux, Windows) and building automation tools to make it painless. Looking for roles in server administration, DevOps, and infrastructure.
 
 ---
 
 ## What I'm working on
 
-**[labctl](https://github.com/iampownkumar/labctl)** — A CLI tool for managing Mac labs over SSH. Reboot, deploy software, create users, monitor screens — across 30+ machines in parallel. No MDM, no agents, no cloud, no subscription. Just Fish shell and SSH.
+**[labctl](https://github.com/iampownkumar/labctl)** — CLI tool for managing Mac labs over SSH. Reboot, deploy software, create users, monitor screens — across 30+ machines in parallel. No MDM, no agents, no cloud, no subscription. Fish shell and SSH.
 
-**[Mac Lab Dashboard](https://github.com/iampownkumar/mac-lab-dashboard)** — The GUI companion to labctl. A Flutter desktop app backed by a FastAPI server that lets anyone manage a Mac lab without touching a terminal.
+**[Mac Lab Dashboard](https://github.com/iampownkumar/mac-lab-dashboard)** — GUI companion to labctl. Flutter desktop app + FastAPI backend that lets anyone manage a Mac lab without touching a terminal.
 
-**[Kora Expense Tracker](https://github.com/iampownkumar/kora-expense-tracker)** — Personal finance app built with Flutter and Firebase. Expense tracking, budgets, and analytics.
+**[Kora Launcher](https://github.com/iampownkumar/koralauncher)** — A custom Android launcher built with Flutter. Features app management, Rising Tide screen-time intervention system with on-device AI, and shortcut integration.
+
+**[Kora Expense Tracker](https://github.com/iampownkumar/kora-expense-tracker)** — Personal finance app built with Flutter. Expense tracking, budgets, and analytics.
 
 ---
 
-## Tech I actually use
+## Tech I use
 
-**Day to day:** Flutter, Dart, Python, Fish shell, SSH, Git
+**Systems:** macOS, Linux, and Windows server/desktop administration
 
-**Backend:** FastAPI, Node.js, Firebase
+**Automation:** Fish shell, Bash, SSH, parallel remote execution, Homebrew automation
 
-**Infrastructure:** macOS system administration, Homebrew automation, shell scripting, Docker
+**Backend:** Python (FastAPI), Node.js
 
-**Frontend (when needed):** React, HTML/CSS/JS
+**Apps (hobby):** Flutter, Dart, Firebase
+
+**Infrastructure:** Docker, Git, CI/CD, system scripting
 
 ---
 
 ## Background
 
-I started as a Flutter developer, built a few apps, then took a job managing a college Mac lab. That's where I realized there's no good free tool for managing multiple Macs — everything is either $4/device/month (Jamf) or requires enterprise MDM enrollment.
+I manage a 33-machine Mac lab at a college, along with Linux and Windows systems. When I started, there was no affordable tool for managing multiple Macs remotely — Jamf costs $4–8/device/month and MDM solutions require enterprise enrollment.
 
-So I built my own. labctl started as a handful of shell scripts and grew into a modular CLI with 50+ commands covering power management, user management, software deployment, screen monitoring, auto-login, Wake-on-LAN, and more.
+So I built labctl — a Fish shell CLI that manages an entire lab over SSH. It grew from a few scripts into a modular system with 50+ commands covering power management, user lifecycle, software deployment, screen monitoring, auto-login, Wake-on-LAN, and more. Then I built a Flutter dashboard on top of it so non-technical staff can use it too.
 
-The dashboard came next — because not everyone wants to use a terminal.
+On the side, I build Flutter apps because I enjoy it — Kora Launcher and Kora Expense Tracker are personal projects I work on when I have time.
 
 ---
 
@@ -42,3 +46,4 @@ The dashboard came next — because not everyone wants to use a terminal.
 
 - YouTube: [@korelium](https://www.youtube.com/@korelium)
 - GitHub: [@iampownkumar](https://github.com/iampownkumar)
+- Location: Tamil Nadu, India
